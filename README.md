@@ -8,7 +8,7 @@ This tutorial outlines creating a User Database and Group Policy Objects for Act
 
 <h2>Prerequisite</h2>
 
-- [Create Active Directory Infrastructure in Azure](https://github.com/joshuaheck1/create-ad-infrastructure)
+- [Create Active Directory Infrastructure in Azure](https://github.com/Jadm1992/Create-Active-Directory-Infrastructure-in-Azure)
 
 <h2>Environments and Technologies Used</h2>
 
